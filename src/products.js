@@ -1,6 +1,6 @@
 const products = [
     {
-        'id': '1',
+        '_id': '1',
         'name': 'T-shirt 1',
         'image': '/images/shirt1.jpg',
         'description': 'T-shirt 1 description',
@@ -11,7 +11,7 @@ const products = [
         'numReviews': 19,
     },
     {
-        'id': '2',
+        '_id': '2',
         'name': 'T-shirt 2',
         'image': '/images/shirt2.jpg',
         'description': 'T-shirt 2 description',
@@ -22,7 +22,7 @@ const products = [
         'numReviews': 12,
     },
     {
-        'id': '3',
+        '_id': '3',
         'name': 'T-shirt 3',
         'image': '/images/shirt3.jpg',
         'description': 'T-shirt 3 description',
